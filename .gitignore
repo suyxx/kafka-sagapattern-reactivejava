@@ -1,0 +1,6 @@
+tags
+*.pdf
+*.TTF
+target/
+.*.swp
+.*.un~
